@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySecondTime</string>
+    <string name="textView1">Click the button to show the first 10 even numbers.</string>
+</resources>
